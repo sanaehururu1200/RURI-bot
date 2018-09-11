@@ -1,0 +1,6 @@
+{
+  "format_version": 0,
+  "name": "天気予報モジュール",
+  "type": "resources",
+  "entry": "index.js"
+}

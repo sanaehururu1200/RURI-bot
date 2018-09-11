@@ -1,0 +1,9 @@
+{
+  "cityList": {
+    "地名": {
+      "lat": "0",
+      "lon": "0",
+      "alias": ["hoge", "fuga"]
+    }
+  }
+}

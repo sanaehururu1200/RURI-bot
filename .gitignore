@@ -1,0 +1,4 @@
+.config.json
+.config.global.js
+node_modules
+!/docs/*
